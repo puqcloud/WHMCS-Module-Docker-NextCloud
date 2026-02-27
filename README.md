@@ -1,10 +1,11 @@
-# WHMCS-Module-Docker-NextCloud
-A module for WHMCS that uses n8n workflows to deploy the NextCloud service using Docker.
-
 # Description
 
->Before you start, it is important to read and familiarize yourself with the following articles at this link:  
-[https://doc.puq.info/books/docker-modules](https://doc.puq.info/books/docker-modules)
+### Docker NextCloud module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+
+##### [Order now](https://puqcloud.com/whmcs-module-docker-nextcloud.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Docker-NextCloud/) | [FAQ](https://faq.puqcloud.com/) | [n8n](https://puqcloud.com/link.php?id=117)
+
+<p class="callout info">Before you start, it is important to read and familiarize yourself with the following articles at this link:  
+[https://doc.puq.info/books/docker-modules](https://doc.puq.info/books/docker-modules)</p>
 
 **WHMCS Docker NextCloud module** is designed for automated provisioning and comprehensive management of **NextCloud** and **NextCloud Office** instances on a Docker server. This powerful integration with WHMCS empowers businesses to efficiently offer cloud-based file storage, collaboration, and office productivity solutions to their clients.
 
@@ -14,12 +15,12 @@ A module for WHMCS that uses n8n workflows to deploy the NextCloud service using
 
 ## **Key Features**
 
-### **Automated Container Management**
+### **🚀 Automated Container Management**
 
 - Automatic creation of a **NextCloud** (with optional **NextCloud Office**) container upon service order.
 - Automated package upgrades and administrator password reset.
 
-### **Service Control &amp; Security**
+### **🔒 Service Control &amp; Security**
 
 - Service creation
 - Service suspension and reactivation
@@ -27,15 +28,15 @@ A module for WHMCS that uses n8n workflows to deploy the NextCloud service using
 - Full reinstallation
 - IP access control
 
-### **Advanced Diagnostic Tools**
+### **🛠️ Advanced Diagnostic Tools**
 
 - Built-in tools for diagnosing and managing containers.
 
-### **Multilingual Support**
+### **🌍 Multilingual Support**
 
 - Supports multiple languages, including **Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish, Romanian, Russian, Spanish, Swedish, Turkish, and Ukrainian**.
 
-### **Fully Customizable Workflows**
+### **⚙️ Fully Customizable Workflows**
 
 - Uses **n8n workflows** to automate processes, allowing full customization for business-specific needs.
 
@@ -44,31 +45,31 @@ A module for WHMCS that uses n8n workflows to deploy the NextCloud service using
 ## **System Requirements**
 
 To run the WHMCS Docker **NextCloud** module, ensure you have:  
-- **WHMCS version 8+**  
-- **An n8n server** for workflow automation  
-- **A server with Docker installed** for container management ([Installation Guide](https://doc.puq.info/books/docker-modules/page/installing-docker-for-puqcloud-modules))
+✅ **WHMCS version 8+**  
+✅ **An n8n server** for workflow automation  
+✅ **A server with Docker installed** for container management ([Installation Guide](https://doc.puq.info/books/docker-modules/page/installing-docker-for-puqcloud-modules))
 
 - - - - - -
 
 ## **Installation &amp; Setup**
 
-### **Environment Preparation**
+### **1️⃣ Environment Preparation**
 
 - Install **WHMCS 8+**.
 - Set up an **n8n server** for automation workflows.
 - Ensure **Docker** is installed and running. ([Installation Guide](https://doc.puq.info/books/docker-modules/page/installing-docker-for-puqcloud-modules))
 
-### **Module Installation**
+### **2️⃣ Module Installation**
 
 - Upload and activate the **WHMCS Docker NextCloud module**.
 - Configure the module settings to connect with your Docker server and n8n workflows.
 
-### **Workflow Customization**
+### **3️⃣ Workflow Customization**
 
 - Utilize **n8n workflows** to automate service provisioning and management.
 - Modify workflows as needed for custom business logic.
 
-### **Testing &amp; Deployment**
+### **4️⃣ Testing &amp; Deployment**
 
 - Perform a **test order** to verify automatic container creation.
 - Check all service management functions (creation, suspension, unsuspension, termination).
@@ -77,16 +78,16 @@ To run the WHMCS Docker **NextCloud** module, ensure you have:
 
 ## **Why Choose This Module?**
 
-- **Seamless automation** – Reduces manual work and speeds up service deployment.  
-- **Highly customizable** – Modify workflows to fit any business model.  
-- **User-friendly** – Integrated within WHMCS with a simple setup process.
+✅ **Seamless automation** – Reduces manual work and speeds up service deployment.  
+✅ **Highly customizable** – Modify workflows to fit any business model.  
+✅ **User-friendly** – Integrated within WHMCS with a simple setup process.
 
 - - - - - -
 
-This module makes selling and managing **NextCloud** and **NextCloud Office** instances through WHMCS easy, automated, and flexible!
+This module makes selling and managing **NextCloud** and **NextCloud Office** instances through WHMCS easy, automated, and flexible! 🚀
 
-[![image-1742993379365.png](https://doc.puq.info/uploads/images/gallery/2025-03/scaled-1680-/image-1742993379365.png)](https://doc.puq.info/uploads/images/gallery/2025-03/image-1742993379365.png)
+[![01-description-client-area.png](img/01-description-client-area.png)](img/01-description-client-area.png)
 
-[![image-1742993340707.png](https://doc.puq.info/uploads/images/gallery/2025-03/scaled-1680-/image-1742993340707.png)](https://doc.puq.info/uploads/images/gallery/2025-03/image-1742993340707.png)
+[![02-description-admin-area.png](img/02-description-admin-area.png)](img/02-description-admin-area.png)
 
-[![2025-03-26_12-14.png](https://doc.puq.info/uploads/images/gallery/2025-03/scaled-1680-/2025-03-26-12-14.png)](https://doc.puq.info/uploads/images/gallery/2025-03/2025-03-26-12-14.png)
+[![03-description-n8n-workflow.png](img/03-description-n8n-workflow.png)](img/03-description-n8n-workflow.png)
